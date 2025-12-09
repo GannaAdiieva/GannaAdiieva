@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**GannaAdiieva/GannaAdiieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ganna, a QA Engineer learning Automation Testing
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently learning: JavaScript fundamentals 
+- 🎯 Goal: Not to become a developer, but to be able to confidently write automated tests; understand JavaScript code; master the Playwright framework
+- 💡 I believe in #learninginpublic and continuous improvement!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📘 My Projects
+- 🔗 [[Project 1](#)](https://github.com/GannaAdiieva/js-basics)
+
+## 🛠 Tech Stack
+- JavaScript
+- Node.js
+- Git & GitHub
+- VS Code
+- Playwright
+
+## 🌍 Let's connect
+- LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ganna-adiieva-7140b1a8/)
